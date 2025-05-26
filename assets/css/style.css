@@ -1,0 +1,28 @@
+.w{
+    width: 1296px;
+    margin-inline: auto;
+}
+
+.blue{
+    background-color: #1B99D4;
+}
+
+.laptop{
+    background: url(/assets/images/hero-3.png);
+    position: absolute;
+    height: 518px;
+    width: 594px;
+    bottom: 0px;
+    z-index: 1000;
+}
+
+
+.slider .slick-slide {
+    padding: 0 15px; 
+  }
+
+.slider > div {
+    width: 100%;
+}
+
+
